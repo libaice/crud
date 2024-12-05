@@ -1,5 +1,5 @@
 {
-  "address": "AsjZ3kWAUSQRNt2pZVeJkywhZ6gpLpHZmJjduPmKZDZZ",
+  "address": "Z2GTbQm4HRf3Dr8n4UQ8wTGoixy9xzVgVTgzPuZp23u",
   "metadata": {
     "name": "crud",
     "version": "0.1.0",
@@ -132,14 +132,14 @@
     {
       "name": "Crud",
       "discriminator": [
-        255,
-        176,
-        4,
-        245,
-        188,
-        253,
+        161,
         124,
-        25
+        224,
+        203,
+        204,
+        158,
+        167,
+        35
       ]
     }
   ],
